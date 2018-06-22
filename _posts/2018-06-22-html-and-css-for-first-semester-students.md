@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: HTML and CSS for First Semester Students
 ---
 ## A New Post
